@@ -1,4 +1,4 @@
-package com.gomtak;
+package com.gomtak.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
