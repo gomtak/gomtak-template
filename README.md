@@ -1,4 +1,6 @@
 ## To Do List
 - [ ] Spring security
-- [ ] OAuth2
+- [ ] OAuth 2.0
 - [x] Swagger
+- [ ] JWT
+- [ ] ELK
