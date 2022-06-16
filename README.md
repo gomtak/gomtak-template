@@ -1,5 +1,5 @@
 ## To Do List
-- [ ] Spring security
+- [x] Spring security
 - [ ] OAuth 2.0
 - [x] Swagger
 - [ ] JWT
