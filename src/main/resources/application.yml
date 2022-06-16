@@ -1,12 +1,15 @@
 spring:
+  ## JSP를 위한 엔진
   thymeleaf:
     prefix: classpath:templates/
     suffix: .html
     cache : false
+  ## 스웨거 필요
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
 
+##스웨거 설정
 springdoc:
   default-consumes-media-type: application/json
   default-produces-media-type: application/json
